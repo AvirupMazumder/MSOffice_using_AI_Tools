@@ -44,10 +44,13 @@ For any Powerpoint presentation we have to follow this flowchart
 
 For Research and Outline of the presentation, you can use ChatGPT. Goto [ChatGPT.OpenAI](https://chat.openai.com/ "ChatGPT").
 For Design use Microsoft Powerpoint's latest Designer Function, and use whatever we get from outline one by one in powerpoint.
-
+ 
 #### 5. Use Gamma App
 
 This is a faster process compared to previous one. It will geerate PPT within few seconds.
 Use [Gamma.app](https://gamma.app/ "Gamma-AI")
 
+#### 6. Your personal speech coach Yoodle.ai
+
+Use [Yoodle.ai](https://app.yoodli.ai/ "Yoodle.AI"). This app is going to record your speeches and correct you based on which volcabularies you are using. 
 

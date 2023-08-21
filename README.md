@@ -48,6 +48,6 @@ For Design use Microsoft Powerpoint's latest Designer Function, and use whatever
 #### 5. Use Gamma App
 
 This is a faster process compared to previous one. It will geerate PPT within few seconds.
-Use [Gamma.App](https://gamma.app/ Gamma-AI)
+Use [Gamma.app](https://gamma.app/ "Gamma-AI")
 
 

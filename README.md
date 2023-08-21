@@ -14,7 +14,7 @@ After Confirming all the datas , the data will get uploaded in excel sheet
 
 #### 2. Latest Analyze Data Feature
 
-Usually when we have data populated in excel sheet and we want to get some insights like generating bar graphs and pie charts, we generally use Pivot cahrt and 
+Usually when we have data populated in excel sheet and we want to get some insights like generating bar graphs and pie charts, we generally use Pivot chart and 
 pivot table. But with the latest feature of MS Office 365, we can do it directly using prompts, such as
 
 * Are there any data trends?

@@ -54,3 +54,32 @@ Use [Gamma.app](https://gamma.app/ "Gamma-AI")
 
 Use [Yoodle.ai](https://app.yoodli.ai/ "Yoodle.AI"). This app is going to record your speeches and correct you based on which volcabularies you are using. 
 
+```Sub SendBulkEmails()
+    Dim OutApp As Object
+    Dim OutMail As Object
+    Dim cell As Range
+
+    Set OutApp = CreateObject("Outlook.Application")
+
+    On Error GoTo cleanup
+    For Each cell In Columns("B").Cells.SpecialCells(xlCellTypeConstants)
+        If cell.Value Like "?*@?*.?*" And _
+           LCase(Cells(cell.Row, "C").Value) = "yes" Then
+
+            Set OutMail = OutApp.CreateItem(0)
+            With OutMail
+                .To = cell.Value
+                .Subject = "Subject of the email"
+                .Body = "Body of the email"
+                ' .Attachments.Add "Path to attachment"
+                .Send
+            End With
+
+            Set OutMail = Nothing
+        End If
+    Next cell
+
+    cleanup:
+        Set OutApp = Nothing
+    End Sub```
+

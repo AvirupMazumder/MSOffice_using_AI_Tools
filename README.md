@@ -31,9 +31,23 @@ Goto [Formula.dog](https://formula.dog/ "Formula.dog") , use Formula tab, write 
 
 #### 4. Use Explain Tab on Formula Dog
 
-if you want to know what exactly the excel formula is doing and you want an explanation, type the formula you want to search . Then press enter.
-You will get a detailed explanation
+if you want to know what exactly the excel formula is doing and you want an explanation, type the formula you want to search . 
+Then press enter. You will get a detailed explanation
 
 # MS Powerpoint #
+
+For any Powerpoint presentation we have to follow this flowchart
+
+1. Research
+2. Outline
+3. Design
+
+For Research and Outline of the presentation, you can use ChatGPT. Goto [ChatGPT.OpenAI](https://chat.openai.com/ "ChatGPT").
+For Design use Microsoft Powerpoint's latest Designer Function, and use whatever we get from outline one by one in powerpoint.
+
+#### 5. Use Gamma App
+
+This is a faster process compared to previous one. It will geerate PPT within few seconds.
+Use [Gamma.App](https://gamma.app/ Gamma-AI)
 
 

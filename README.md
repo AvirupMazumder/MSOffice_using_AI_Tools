@@ -54,6 +54,12 @@ Use [Gamma.app](https://gamma.app/ "Gamma-AI")
 
 Use [Yoodle.ai](https://app.yoodli.ai/ "Yoodle.AI"). This app is going to record your speeches and correct you based on which volcabularies you are using. 
 
+# Sending bulk emails
+
+#### 7. Use ChatGPT to enhance macro enabled MS Excel.
+
+Search in ChatGPT about sending bulk emails in MS Excel. 
+
 ```Sub SendBulkEmails()
     Dim OutApp As Object
     Dim OutMail As Object

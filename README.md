@@ -27,6 +27,13 @@ Dont remember any excel formula but need to get your work done?
 
 Use Formula Dog
 
-Goto [Formula.dog](https://formula.dog/ "Formula.dog")
+Goto [Formula.dog](https://formula.dog/ "Formula.dog") , use Formula tab, write your use case, you will get the formula
+
+#### 4. Use Explain Tab on Formula Dog
+
+if you want to know what exactly the excel formula is doing and you want an explanation, type the formula you want to search . Then press enter.
+You will get a detailed explanation
+
+# MS Powerpoint #
 
 

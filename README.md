@@ -26,6 +26,7 @@ pivot table. But with the latest feature of MS Office 365, we can do it directly
 Dont remember any excel formula but need to get your work done?
 
 Use Formula Dog
-Goto [ Formula.dog ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtu8b0me6AAxXSGogKHZEKCLMQFnoECBgQAQ&url=https%3A%2F%2Fformula.dog%2F&usg=AOvVaw3sno5yDTVPxKRO6vTvuDfQ&opi=89978449 Formula.dog)
+
+Goto [Formula.dog](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtu8b0me6AAxXSGogKHZEKCLMQFnoECBgQAQ&url=https%3A%2F%2Fformula.dog%2F&usg=AOvVaw3sno5yDTVPxKRO6vTvuDfQ&opi=89978449/ Formula.dog)
 
 
